@@ -1,0 +1,25 @@
+{
+  "name": "selenarium-advanced",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test src/services/moonService.test.js"
+  },
+  "dependencies": {
+    "astronomy-engine": "^2.1.19",
+    "framer-motion": "12.38.0",
+    "lucide-react": "1.11.0",
+    "react": "19.2.5",
+    "react-dom": "19.2.5",
+    "recharts": "3.8.1",
+    "three": "0.184.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.0.1",
+    "vite": "8.0.10"
+  }
+}
