@@ -11,7 +11,7 @@
 
 ## ✨ Overview
 
-**Selenarium Advanced** is a visually rich, data-accurate moon phase explorer that combines:
+**Moon Calendar** is a visually rich, data-accurate moon phase explorer that combines:
 
 - 🌌 Real-time 3D rendering  
 - 🌙 Astronomical calculations  
