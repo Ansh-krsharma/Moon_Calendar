@@ -52,7 +52,7 @@ export default function MonthNavigator({ viewYear, viewMonth, onPrevious, onNext
 
   return (
     <header className="calendar-header">
-      <div className="app-title">Selenarium Advanced</div>
+      <div className="app-title">Moon Calendar</div>
       <nav className="month-nav" aria-label="Calendar month navigation">
         <button type="button" onClick={onPrevious} aria-label="Previous month"><ChevronLeft size={18} /></button>
         <div className="date-picker" aria-label="Choose calendar month and year">

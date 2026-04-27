@@ -1,4 +1,4 @@
-# Selenarium Advanced
+# Moon Calendar
 
 A React, Vite, and Three.js moon phase calendar with an interactive 3D moon, local lunar calculations, an illumination chart, animated calendar UI, and responsive layout.
 
