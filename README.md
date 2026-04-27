@@ -1,4 +1,4 @@
-# 🌙 Selenarium Advanced
+# 🌙 Moon Calendar
 
 > A premium, production-grade Moon Phase Calendar built with React, Three.js, and ephemeris-level astronomy data.
 
