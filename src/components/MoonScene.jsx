@@ -20,10 +20,12 @@ import {
   WebGLRenderer,
 } from 'three';
 
+const texturePath = (fileName) => `${import.meta.env.BASE_URL}textures/nasa-moon/${fileName}`;
+
 const NASA_TEXTURES = {
-  moon: '/textures/nasa-moon/lroc_color_poles_1k.jpg',
-  displacement: '/textures/nasa-moon/ldem_3_8bit.jpg',
-  sky: '/textures/nasa-moon/hipp8_s.jpg',
+  moon: texturePath('lroc_color_poles_1k.jpg'),
+  displacement: texturePath('ldem_3_8bit.jpg'),
+  sky: texturePath('hipp8_s.jpg'),
 };
 
 function disposeMaterial(material) {
