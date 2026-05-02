@@ -24,7 +24,7 @@ Designed as a **portfolio-grade + production-ready application**, it demonstrate
 
 ## 🎥 Demo
 
-👉 Live Demo: *Add your Vercel / GitHub Pages link here*  
+👉 Live Demo: https://ansh-krsharma.github.io/Moon_Calendar/
 👉 Screenshots:
 
 - 3D Moon View  
