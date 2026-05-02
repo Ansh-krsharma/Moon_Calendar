@@ -31,9 +31,9 @@ Designed as a **portfolio-grade + production-ready application**, it demonstrate
 - 3D Moon View
   <img width="659" height="585" alt="Screenshot 2026-05-02 063937" src="https://github.com/user-attachments/assets/2dfe832c-079e-4547-bf91-83776f8cf0eb" />
 - Calendar Dashboard
-  <img width="1363" height="599" alt="Screenshot 2026-05-02 064019" src="https://github.com/user-attachments/assets/b6bd4a19-e2b8-4fe3-b556-9b59208826d3" />
-- Illumination Chart  
-<img width="705" height="580" alt="Screenshot 2026-05-02 063957" src="https://github.com/user-attachments/assets/fb94e474-a3e1-447b-bc9e-50667e2bec1b" />
+  <img width="705" height="580" alt="Screenshot 2026-05-02 063957" src="https://github.com/user-attachments/assets/fb94e474-a3e1-447b-bc9e-50667e2bec1b" />
+ - Full view
+ <img width="1363" height="599" alt="Screenshot 2026-05-02 064019" src="https://github.com/user-attachments/assets/b6bd4a19-e2b8-4fe3-b556-9b59208826d3" />
 
 ---
 
